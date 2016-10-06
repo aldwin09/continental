@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\Application.g.vb
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades_MarkupCompile.cache
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades.g.resources
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades.Resources.resources
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\bin\Debug\GetGrades.exe
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\bin\Debug\GetGrades.pdb
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\bin\Debug\GetGrades.xml
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades.exe
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades.xml
+C:\Users\Student\Documents\Tolentino-ITHC\GetGrades\GetGrades\obj\x86\Debug\GetGrades.pdb
