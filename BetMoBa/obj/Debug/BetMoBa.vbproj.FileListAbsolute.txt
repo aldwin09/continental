@@ -1,0 +1,14 @@
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\Window1.baml
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\Window1.g.vb
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\Application.g.vb
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa_MarkupCompile.cache
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa.g.resources
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa.Resources.resources
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa.vbproj.GenerateResource.Cache
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\bin\Debug\BetMoBa.exe
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\bin\Debug\BetMoBa.pdb
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\bin\Debug\BetMoBa.xml
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa.exe
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa.xml
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Debug\BetMoBa.pdb

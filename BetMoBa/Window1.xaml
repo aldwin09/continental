@@ -1,0 +1,23 @@
+﻿<Window x:Class="Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="BetMoBa(Challenge)" Height="431" Width="522">
+    <Grid Height="402" Width="510">
+        <TextBox Height="60" HorizontalAlignment="Left" Margin="57,12,0,0" VerticalAlignment="Top" Width="120" Name="txtScore1" FontSize="25" TextAlignment="Center" />
+        <TextBox Height="60" HorizontalAlignment="Left" Margin="343,12,0,0" Name="txtScore2" VerticalAlignment="Top" Width="118" FontSize="25" TextAlignment="Center" />
+        <Label Content="You" Height="28" HorizontalAlignment="Left" Margin="106,70,0,0" Name="lblYou" VerticalAlignment="Top" Width="30.453" />
+        <Label Content="Computer " Height="28" HorizontalAlignment="Right" Margin="0,70,67.557,0" Name="lblComp" VerticalAlignment="Top" Width="66.443" />
+        <TextBox Height="60" HorizontalAlignment="Left" Margin="57,0,0,220" Name="txtInputYOU" VerticalAlignment="Bottom" Width="120" FontSize="25" TextAlignment="Center" />
+        <TextBox Height="60" HorizontalAlignment="Right" Margin="0,122,46,0" Name="txtInputComp" VerticalAlignment="Top" Width="121" FontSize="25" TextAlignment="Center" />
+        <Label Content="VS." Height="28" HorizontalAlignment="Left" Margin="244,140,0,0" Name="Label3" VerticalAlignment="Top" />
+        <Label Content="Enter a Number(1-9) and press Play" Height="28" HorizontalAlignment="Left" Margin="58,188,0,0" Name="Label4" VerticalAlignment="Top" />
+        <Label Content="Computer" Height="28" HorizontalAlignment="Left" Margin="376,188,0,0" Name="Label5" VerticalAlignment="Top" />
+        <TextBox Height="44" Margin="173,0,166,101" Name="txtInputRes" VerticalAlignment="Bottom" FontSize="20" TextAlignment="Center" />
+        <Label Content="Result:" Height="28" HorizontalAlignment="Left" Margin="132.493,0,0,150" Name="Label6" VerticalAlignment="Bottom" Width="44.91" />
+        <Button Content="PLAY" Height="36" HorizontalAlignment="Left" Margin="74,0,0,43" Name="Button1" VerticalAlignment="Bottom" Width="75" />
+        <Button Content="RESET" Height="36" Margin="207,0,228,43" Name="Button2" VerticalAlignment="Bottom" />
+        <Button Content="EXIT" Height="36" HorizontalAlignment="Right" Margin="0,0,92,43" Name="Button3" VerticalAlignment="Bottom" Width="75" />
+        <Label Height="28" Margin="97,87,0,0" Name="Label1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="72">(Score)</Label>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,87,57,0" Name="Label2" VerticalAlignment="Top" Width="68">(Score)</Label>
+    </Grid>
+</Window>

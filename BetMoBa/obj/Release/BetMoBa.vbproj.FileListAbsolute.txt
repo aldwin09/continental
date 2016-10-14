@@ -1,0 +1,12 @@
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\bin\Release\BetMoBa.exe
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\bin\Release\BetMoBa.xml
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\ResolveAssemblyReference.cache
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\Window1.baml
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\Window1.g.vb
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\Application.g.vb
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\BetMoBa_MarkupCompile.cache
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\BetMoBa.g.resources
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\BetMoBa.Resources.resources
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\BetMoBa.vbproj.GenerateResource.Cache
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\BetMoBa.exe
+C:\Users\arknoulled\AppData\Local\Temporary Projects\BetMoBa\obj\Release\BetMoBa.xml
